@@ -1,6 +1,6 @@
 👋 Hi, I’m @biggies-desu
-- 👀 I’m interested in javascript,java
-- 🌱 I’m currently learning C++,javascript,java
+- 👀 I’m interested in javascript,html
+- 🌱 I’m currently learning javascript and python for software testing
 - Can do basic C++,C,python,SQL
 - 📫 Contact me via discord (TechnicalMaid#0595) my twitter (@Biggies_desu) or my e-mail
 - Terrible suck ass at coding and math.
